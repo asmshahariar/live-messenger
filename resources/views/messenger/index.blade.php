@@ -41,31 +41,7 @@
                     <a class="action" href="#"><i class="fas fa-trash"></i></a>
                 </div>
             </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat">
-                    <p class="messages">I'm so so</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat">
-                    <p class="messages">You can give a photo ?</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat chat_right">
-                    <p class="messages">Yes</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
+            
             <div class="wsus__single_chat_area">
                 <div class="wsus__single_chat chat_right">
                     <a class="venobox" data-gall="gallery01" href="images/chat_img.png">
@@ -82,38 +58,6 @@
                     <a class="venobox" data-gall="gallery01" href="images/chat_img.png">
                         <img src="images/chat_img.png" alt="gallery1" class="img-fluid w-100">
                     </a>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat chat_right">
-                    <p class="messages">I'm fine, What about you ?</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat">
-                    <p class="messages">I'm so so</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat">
-                    <p class="messages">You can give a photo ?</p>
-                    <span class="time"> 5h ago</span>
-                    <a class="action" href="#"><i class="fas fa-trash"></i></a>
-                </div>
-            </div>
-
-            <div class="wsus__single_chat_area">
-                <div class="wsus__single_chat chat_right">
-                    <p class="messages">Yes</p>
                     <span class="time"> 5h ago</span>
                     <a class="action" href="#"><i class="fas fa-trash"></i></a>
                 </div>
