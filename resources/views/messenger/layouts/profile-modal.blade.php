@@ -37,8 +37,6 @@ aria-hidden="true">
     </div>
 </div>
 </div>
-
-
 @push('scripts')
 <script>
     $(document).ready(function() {
